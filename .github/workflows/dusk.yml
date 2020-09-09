@@ -1,5 +1,5 @@
 name: Continuos Integration for Laravel Dusk
-on: [workflow_dispatch]
+on: [push]
 jobs:
 
   dusk-php:
